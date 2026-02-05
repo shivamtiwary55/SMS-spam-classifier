@@ -1,2 +1,2 @@
-# SMS-spam-classifier
-A machine learning–based system designed to detect and filter spam SMS messages
+# email-spam-classifier-new
+End to end code for the email spam classifier project
